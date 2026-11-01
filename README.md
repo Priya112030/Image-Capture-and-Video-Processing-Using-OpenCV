@@ -33,8 +33,8 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 
 ## 💻 Program
 ### Developed By
-**Name:** PRIYA B
-**Register No:** 212224230208
+### Name: PRIYA B
+### Register No: 212224230208
 ```
 # i) Write the frame as JPG file
 import cv2
